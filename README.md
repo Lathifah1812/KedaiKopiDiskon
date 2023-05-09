@@ -1,8 +1,10 @@
 # KedaiKopiDiskon
 Deskripsi
+
 Kode ini adalah implementasi dari program kopi sederhana yang menggunakan konsep OOP. Program ini terdiri dari tiga kelas utama, yaitu Menu, Diskon, dan CoffeeShop. Kelas Menu digunakan untuk merepresentasikan menu minuman kopi, sedangkan kelas Diskon digunakan untuk menghitung diskon berdasarkan jumlah pesanan. Kelas CoffeeShop digunakan untuk menghitung total harga pesanan pelanggan dengan memanfaatkan kelas Menu dan Diskon.
 
 Kelas
+
 Menu
 Kelas ini merepresentasikan menu minuman kopi dengan atribut name dan price. Metode get_name() digunakan untuk mengambil nama menu, sedangkan metode get_price() digunakan untuk mengambil harga menu.
 
